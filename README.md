@@ -1,4 +1,4 @@
-# 团队名称
+## 团队名称
 Debug or Die
 ## 团队口号
 Catch the bug, save the world!
